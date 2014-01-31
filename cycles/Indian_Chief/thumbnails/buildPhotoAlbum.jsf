@@ -1,0 +1,132 @@
+App.progressCountTotal = 16;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/CHEIF1.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'CHEIF1.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF1_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF1_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF1_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF1_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF1_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF1_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/CHEIF10.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'CHEIF10.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF10_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF10_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF10_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF10_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF10_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF10_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/CHEIF11.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'CHEIF11.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF11_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF11_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF11_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF11_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF11_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF11_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/CHEIF12.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'CHEIF12.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF12_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF12_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF12_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF12_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF12_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF12_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/CHEIF13.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'CHEIF13.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF13_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF13_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF13_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF13_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF13_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF13_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/CHEIF14.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'CHEIF14.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF14_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF14_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF14_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF14_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF14_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF14_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/CHEIF15.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'CHEIF15.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF15_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF15_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF15_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF15_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF15_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF15_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/CHEIF16.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'CHEIF16.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF16_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF16_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF16_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF16_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF16_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF16_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/CHEIF2.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'CHEIF2.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF2_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF2_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF2_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF2_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF2_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF2_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/CHEIF3.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'CHEIF3.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF3_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF3_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF3_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF3_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF3_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF3_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/CHEIF4.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'CHEIF4.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF4_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF4_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF4_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF4_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF4_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF4_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/CHEIF5.jpg');
+App.progressCountCurrent = 12;
+App.batchStatusString = 'CHEIF5.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF5_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF5_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF5_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF5_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF5_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF5_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/CHEIF6.jpg');
+App.progressCountCurrent = 13;
+App.batchStatusString = 'CHEIF6.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF6_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF6_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF6_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF6_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF6_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF6_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/CHEIF7.jpg');
+App.progressCountCurrent = 14;
+App.batchStatusString = 'CHEIF7.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF7_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF7_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF7_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF7_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF7_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF7_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/CHEIF8.jpg');
+App.progressCountCurrent = 15;
+App.batchStatusString = 'CHEIF8.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF8_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF8_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF8_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF8_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF8_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF8_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/CHEIF9.jpg');
+App.progressCountCurrent = 16;
+App.batchStatusString = 'CHEIF9.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF9_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF9_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/images/CHEIF9_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF9_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF9_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/cycles/Indian_Chief/thumbnails/CHEIF9_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

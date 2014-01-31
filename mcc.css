@@ -1,0 +1,77 @@
+body {
+	background-color:#000000;
+	font:Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	}
+
+.body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color:#FFFFFF;
+}
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color:#FFFFFF;
+}
+
+.italicbody {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: oblique;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: small-caps;
+	color: #FF0000;
+	text-transform: none;
+
+
+}
+.header {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	font-style: italic;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+}
+.majorheader {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-large;
+	font-style: italic;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #FF0000;
+}
+
+.SideHead {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color:#FF0000;
+}
+
+a {
+	color:#FFFFFF;
+	}
+
+a:hover {
+	color:#FF0000;
+	}

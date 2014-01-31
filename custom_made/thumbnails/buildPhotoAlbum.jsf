@@ -1,0 +1,172 @@
+App.progressCountTotal = 21;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/AFILTER1.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'AFILTER1.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER1_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER1_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER1_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER1_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER1_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER1_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/AFILTER2.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'AFILTER2.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER2_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER2_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER2_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER2_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER2_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER2_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/AFILTER3.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'AFILTER3.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER3_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER3_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER3_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER3_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER3_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER3_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/AFILTER4.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'AFILTER4.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER4_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER4_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER4_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER4_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER4_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER4_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/AFILTER5.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'AFILTER5.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER5_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER5_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER5_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER5_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER5_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER5_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/AFILTER6.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'AFILTER6.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER6_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER6_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER6_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER6_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER6_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER6_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/AFILTER7.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'AFILTER7.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER7_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER7_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER7_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER7_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER7_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER7_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/AFILTER8.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'AFILTER8.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER8_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER8_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER8_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER8_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER8_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER8_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/AFILTER9.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'AFILTER9.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER9_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER9_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/AFILTER9_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER9_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER9_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/AFILTER9_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/aircleaner2_jpg_jpg.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'aircleaner2_jpg_jpg.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/aircleaner2_jpg_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/aircleaner2_jpg_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/aircleaner2_jpg_jpg_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/aircleaner2_jpg_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/aircleaner2_jpg_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/aircleaner2_jpg_jpg_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/fender rack_jpg.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'fender rack_jpg.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/fender rack_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/fender rack_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/fender rack_jpg_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/fender rack_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/fender rack_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/fender rack_jpg_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/license bracket2_jpg_jpg_jpg.jpg');
+App.progressCountCurrent = 12;
+App.batchStatusString = 'license bracket2_jpg_jpg_jpg.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/license bracket2_jpg_jpg_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/license bracket2_jpg_jpg_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/license bracket2_jpg_jpg_jpg_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/license bracket2_jpg_jpg_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/license bracket2_jpg_jpg_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/license bracket2_jpg_jpg_jpg_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/license1_jpg.jpg');
+App.progressCountCurrent = 13;
+App.batchStatusString = 'license1_jpg.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/license1_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/license1_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/license1_jpg_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/license1_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/license1_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/license1_jpg_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/license2_jpg.jpg');
+App.progressCountCurrent = 14;
+App.batchStatusString = 'license2_jpg.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/license2_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/license2_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/license2_jpg_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/license2_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/license2_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/license2_jpg_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/license3_jpg.jpg');
+App.progressCountCurrent = 15;
+App.batchStatusString = 'license3_jpg.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/license3_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/license3_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/license3_jpg_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/license3_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/license3_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/license3_jpg_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/license4_jpg.jpg');
+App.progressCountCurrent = 16;
+App.batchStatusString = 'license4_jpg.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/license4_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/license4_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/license4_jpg_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/license4_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/license4_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/license4_jpg_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/license5_jpg.jpg');
+App.progressCountCurrent = 17;
+App.batchStatusString = 'license5_jpg.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/license5_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/license5_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/license5_jpg_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/license5_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/license5_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/license5_jpg_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/LICENSE5_jpg_jpg_jpg.jpg');
+App.progressCountCurrent = 18;
+App.batchStatusString = 'LICENSE5_jpg_jpg_jpg.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/LICENSE5_jpg_jpg_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/LICENSE5_jpg_jpg_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/LICENSE5_jpg_jpg_jpg_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/LICENSE5_jpg_jpg_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/LICENSE5_jpg_jpg_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/LICENSE5_jpg_jpg_jpg_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/LIGHTBAR2_jpg_jpg_jpg.jpg');
+App.progressCountCurrent = 19;
+App.batchStatusString = 'LIGHTBAR2_jpg_jpg_jpg.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/LIGHTBAR2_jpg_jpg_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/LIGHTBAR2_jpg_jpg_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/LIGHTBAR2_jpg_jpg_jpg_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/LIGHTBAR2_jpg_jpg_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/LIGHTBAR2_jpg_jpg_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/LIGHTBAR2_jpg_jpg_jpg_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/lightbracket2 copy_jpg_jpg_jpg.jpg');
+App.progressCountCurrent = 20;
+App.batchStatusString = 'lightbracket2 copy_jpg_jpg_jpg.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/lightbracket2 copy_jpg_jpg_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/lightbracket2 copy_jpg_jpg_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/lightbracket2 copy_jpg_jpg_jpg_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/lightbracket2 copy_jpg_jpg_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/lightbracket2 copy_jpg_jpg_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/lightbracket2 copy_jpg_jpg_jpg_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/venture radiator cover2_jpg.jpg');
+App.progressCountCurrent = 21;
+App.batchStatusString = 'venture radiator cover2_jpg.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/venture radiator cover2_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/venture radiator cover2_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/images/venture radiator cover2_jpg_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/venture radiator cover2_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/venture radiator cover2_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_made/thumbnails/venture radiator cover2_jpg_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

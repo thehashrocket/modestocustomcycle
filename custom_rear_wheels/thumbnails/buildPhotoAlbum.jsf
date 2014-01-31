@@ -1,0 +1,100 @@
+App.progressCountTotal = 12;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/000_0043 (2).jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = '000_0043 (2).jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/000_0043 (2)_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/000_0043 (2)_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/000_0043 (2)_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/000_0043 (2)_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/000_0043 (2)_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/000_0043 (2)_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/000_0047.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = '000_0047.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/000_0047_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/000_0047_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/000_0047_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/000_0047_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/000_0047_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/000_0047_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/000_0062.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = '000_0062.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/000_0062_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/000_0062_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/000_0062_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/000_0062_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/000_0062_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/000_0062_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/000_0066.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = '000_0066.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/000_0066_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/000_0066_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/000_0066_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/000_0066_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/000_0066_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/000_0066_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/100_0568_jpg.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = '100_0568_jpg.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/100_0568_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/100_0568_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/100_0568_jpg_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/100_0568_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/100_0568_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/100_0568_jpg_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/100_0569_jpg.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = '100_0569_jpg.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/100_0569_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/100_0569_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/100_0569_jpg_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/100_0569_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/100_0569_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/100_0569_jpg_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/100_0743_jpg.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = '100_0743_jpg.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/100_0743_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/100_0743_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/100_0743_jpg_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/100_0743_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/100_0743_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/100_0743_jpg_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/100_0746_jpg.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = '100_0746_jpg.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/100_0746_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/100_0746_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/100_0746_jpg_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/100_0746_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/100_0746_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/100_0746_jpg_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/250 rear set up_jpg_jpg.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = '250 rear set up_jpg_jpg.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/250 rear set up_jpg_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/250 rear set up_jpg_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/250 rear set up_jpg_jpg_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/250 rear set up_jpg_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/250 rear set up_jpg_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/250 rear set up_jpg_jpg_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/250 rear tire.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = '250 rear tire.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/250 rear tire_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/250 rear tire_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/250 rear tire_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/250 rear tire_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/250 rear tire_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/250 rear tire_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/250 swing arm_jpg_jpg.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = '250 swing arm_jpg_jpg.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/250 swing arm_jpg_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/250 swing arm_jpg_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/250 swing arm_jpg_jpg_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/250 swing arm_jpg_jpg_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/250 swing arm_jpg_jpg_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/250 swing arm_jpg_jpg_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///H|/Projects/Personal/Modesto Custom Cycle/custom_parts/ness 250 swing arm kit.jpg');
+App.progressCountCurrent = 12;
+App.batchStatusString = 'ness 250 swing arm kit.jpg';
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/ness 250 swing arm kit_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/ness 250 swing arm kit_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/images/ness 250 swing arm kit_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/ness 250 swing arm kit_jpg.jpg') || confirm('file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/ness 250 swing arm kit_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///H|/Projects/Personal/Modesto Custom Cycle/modestocustomcycle.com/custom_rear_wheels/thumbnails/ness 250 swing arm kit_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

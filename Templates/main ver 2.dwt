@@ -1,0 +1,161 @@
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>index.jpg</title>
+<!-- TemplateEndEditable --><meta http-equiv="Content-Type" content="text/html;">
+<meta name="description" content="FW MX DW MX HTML">
+<!-- Fireworks MX Dreamweaver MX target.  Created Thu Sep 11 10:36:56 GMT-0700 (Pacific Daylight Time) 2003-->
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<link href="../mcc.css" rel="stylesheet" type="text/css">
+</head>
+<body onLoad="MM_preloadImages('../images/home-down.jpg','../images/home-over.jpg','../images/cycles-down.jpg','../images/cycles-over.jpg','../images/events-down.jpg','../images/events-over.jpg','../images/contact-down.jpg','../images/contact-over.jpg','../images/custom-down.jpg','../images/custom-over.jpg')">
+<!--The following section is an HTML table which reassembles the sliced image in a browser.-->
+<!--Copy the table section including the opening and closing table tags, and paste the data where-->
+<!--you want the reassembled image to appear in the destination document. -->
+<!--======================== BEGIN COPYING THE HTML HERE ==========================-->
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+  <!--DWLayoutTable-->
+<!-- fwtable fwsrc="modestocustomcycle.png" fwbase="index.jpg" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
+  <tr>
+<!-- Shim row, height 1. -->
+   <td><img src="../images/spacer.gif" width="135" height="1" border="0" alt=""></td>
+   <td width="76"><img src="../images/spacer.gif" width="76" height="1" border="0" alt=""></td>
+   <td width="78"><img src="../images/spacer.gif" width="78" height="1" border="0" alt=""></td>
+   <td width="77"><img src="../images/spacer.gif" width="77" height="1" border="0" alt=""></td>
+   <td width="80"><img src="../images/spacer.gif" width="80" height="1" border="0" alt=""></td>
+   <td width="81"><img src="../images/spacer.gif" width="81" height="1" border="0" alt=""></td>
+   <td width="273"><img src="../images/spacer.gif" width="273" height="1" border="0" alt=""></td>
+   <td width="1"><img src="../images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+
+  <tr><!-- row 1 -->
+   <td height="61"><img name="index_r1_c1" src="../images/modestocustomcycle_r1_c1.jpg" width="135" height="61" border="0" alt=""></td>
+   <td colspan="5" rowspan="2" valign="top"><table border="0" cellpadding="0" cellspacing="0">
+     <tr>
+       <td><a href="../index.htm" target="_top" onClick="MM_nbGroup('down','group1','home','../images/home-down.jpg',1)" onMouseOver="MM_nbGroup('over','home','../images/home-over.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="../images/home.jpg" alt="home" name="home" width="76" height="100" border="0" onload=""></a></td>
+       <td><a href="../custom.htm" target="_top" onClick="MM_nbGroup('down','group1','custom','../images/custom-down.jpg',1)" onMouseOver="MM_nbGroup('over','custom','../images/custom-over.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="../images/custom.jpg" alt="custom motorcycles" name="custom" border="0" onload=""></a></td>
+       <td><a href="../cycles.htm" target="_top" onClick="MM_nbGroup('down','group1','cycles','../images/cycles-down.jpg',1)" onMouseOver="MM_nbGroup('over','cycles','../images/cycles-over.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="../images/cycles.jpg" alt="cycles" name="cycles" width="77" height="100" border="0" onload=""></a></td>
+       <td><a href="../events.htm" target="_top" onClick="MM_nbGroup('down','group1','events','../images/events-down.jpg',1)" onMouseOver="MM_nbGroup('over','events','../images/events-over.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="../images/events.jpg" alt="events" name="events" width="80" height="100" border="0" onload=""></a></td>
+       <td><a href="/contact/contact.htm" target="_top" onClick="MM_nbGroup('down','group1','contact','../images/contact-down.jpg',1)" onMouseOver="MM_nbGroup('over','contact','../images/contact-over.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="../images/contact.jpg" alt="contact us" name="contact" width="81" height="100" border="0" onload=""></a></td>
+     </tr>
+   </table></td>
+   <td rowspan="2"><img name="index_r1_c7" src="../images/title.jpg" width="273" height="100" border="0" alt=""></td>
+   <td><img src="../images/spacer.gif" width="1" height="61" border="0" alt=""></td>
+  </tr>
+  <tr><!-- row 2 -->
+   <td height="39"><img src="../images/sidehome.jpg" alt="" name="index_r2_c1" width="135" height="39" border="0" usemap="#index_r2_c1Map"></td>
+   <td><img src="../images/spacer.gif" width="1" height="39" border="0" alt=""></td>
+  </tr>
+  <tr><!-- row 3 -->
+   <td height="48" valign="top"><img src="../images/sidecontact.jpg" alt="" name="index_r3_c1" width="135" height="48" border="0" usemap="#index_r3_c1Map"></td>
+   <td colspan="7" rowspan="2" valign="top"><!-- TemplateBeginEditable name="body" -->
+     <table width="100%" border="0" cellpadding="0" cellspacing="0">
+       <!--DWLayoutTable-->
+       <tr>
+         <td width="665" rowspan="2" valign="top"><p class="majorheader">MajorHead</p>
+          <p class="header">Header</p>
+          <p class="body">Body</p>
+          <p class="italicbody">ItalicBody</p>
+          <p class="link">Link</p>
+          <p class="SideHead">SideHead</p>
+          <p>&nbsp;</p></td>
+         <td width="1" height="48" valign="top"><img src="../images/spacer.gif" width="1" height="48" border="0" alt=""></td>
+       </tr>
+       <tr>
+         <td height="452" valign="top"><img src="../images/spacer.gif" width="1" height="452" border="0" alt=""></td>
+       </tr>
+     </table>
+   <!-- TemplateEndEditable --></td>
+  </tr>
+  <tr><!-- row 4 -->
+   <td height="452" valign="top"><p><span class="SideHead">Main Vendors</span>      </p>
+     <p>Arlen Ness<br>
+        Drag Specialties<br>
+        Custom Chrome<br>
+      Corbin<br>
+      Baron<br>
+      Barnett<br>
+        Goodridge<br>
+        Pro-One<br>
+        Patrick Racing<br>
+        Performance Machine<br>
+        Thunder MFG<br>
+        S &amp; S<br>
+        Terry Components<br>
+        Richproducts<br>
+        Paul Yaffe<br>
+        Milwaukee Iron<br>
+        EGO Trip<br>
+        Hi Tech LED<br>
+        Legend<br>
+        RC Components<br>
+        Aeromach<br>
+        Tucker Rocky<br>
+        Kuryakyn<br>
+        Jardine<br>
+      Parts Unlimited     </p>
+    </td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<map name="index_r2_c1Map">
+<area shape="rect" coords="13,10,117,35" href="../index.htm">
+</map>
+<map name="index_r3_c1Map">
+<area shape="rect" coords="14,7,112,29" href="../contact/contact.htm">
+</map>
+</body>
+</html>
